@@ -11,13 +11,13 @@ NetChat is an Instant Messaging WebApp built using JavaScript [Socket](https://s
 Clone the project
 
 ```bash
-  git clone https://github.com/snxdev/react-messenger.git
+  git clone https://github.com/devsanx/netchat-messenger.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd react-messenger
+  cd netchat-messenger
 ```
 
 Install dependencies
